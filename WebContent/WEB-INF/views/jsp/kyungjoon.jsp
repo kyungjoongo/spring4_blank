@@ -79,6 +79,8 @@ asdasdasd
 ㄴㅁㅇㄹㄴㅇㄹ
 
 
+ㅁ
+ㅁㄴㅇㅁㄴㅇ
 
 
 {{each colList}}
